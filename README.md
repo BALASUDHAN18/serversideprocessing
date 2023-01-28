@@ -20,7 +20,7 @@ Step 5:
 
 The website in the URL. http://balasudhan.student.saveetha.in:8000/volume/
 PROGRAM :
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -88,7 +88,7 @@ PROGRAM :
     </div>
     </body>
 </html>
-
+```
 OUTPUT:
 Home Page:
 
