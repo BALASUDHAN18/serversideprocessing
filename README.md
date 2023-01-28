@@ -3,23 +3,25 @@
 AIM:
 
 To design a website to perform mathematical calculations in server side.
-DESIGN STEPS:
+
+##DESIGN STEPS:
+
 Step 1:
-
 Crete new Project And App in Django.
+
 Step 2:
-
 Type the code in views and urls files
+
 Step 3:
-
 Create the Html files
+
 Step 4:
-
 Run The server
-Step 5:
 
+Step 5:
 The website in the URL. http://balasudhan.student.saveetha.in:8000/volume/
-PROGRAM :
+
+##PROGRAM :
 ```
 <!DOCTYPE html>
 <html>
